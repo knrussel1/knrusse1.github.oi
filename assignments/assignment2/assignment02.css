@@ -1,5 +1,5 @@
 /* --- put your css here --- */ 
-/* part1 */
+/* ------------part a----------- */
 
 body {
   background-color: lightblue;
@@ -13,7 +13,7 @@ body {
   margin-left: 10px;
 }
 
-/* part 2 */
+/* ------------part b----------- */
 
 div {
   margin-bottom: 50px;
@@ -30,23 +30,37 @@ span {
   background: yellow;
 }
 
-/*DISPLAY SPAN ELEMENT HERE*/
+/*DISPLAY SPAN ELEMENT HERE <----- ?? how you do this  ??*/
+span.b{
+   display; block;
+}
 
-/*part 3*/
+span.c{
+  display: inline-block;
+}
 
-cat-icon {
+/*------------part c----------- */
+
+omg{ alt="cat-icon") {
   position: fixed;
   bottom: 0;
   right: 0;
   width: 300px;
 }
 
-dog-icon
+dog-icon {
+  
+}
 
+bird-icon {
+  
+}
 
+nav{
+  
+}
 
-
-
+/*------------part d----------- */
 
 
 /* external css is imported into html using the <link> tag in the <head> section, as shown below.
