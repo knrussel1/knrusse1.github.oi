@@ -45,7 +45,7 @@ img[alt="cat icon"] {
   position: fixed;
   bottom: 0;
   right: 0;
-}bottomL
+}
 
 img[alt= "dog icon"] {
   position: relative;
@@ -70,7 +70,7 @@ nav{
   overflow: hidden;
   background-color: green;
   opacity: 0.9;
-    padding: 0.5px;
+   padding: 0.5px;
   font-size: 20px;
   float: left;
 }
