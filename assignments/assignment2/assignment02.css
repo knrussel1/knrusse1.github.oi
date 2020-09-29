@@ -54,6 +54,7 @@ img[alt= "dog icon"] {
 }
 
 img[alt = "bird icon"] {
+  position: relative;
   
 }
 
