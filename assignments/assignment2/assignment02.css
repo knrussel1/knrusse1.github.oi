@@ -54,7 +54,7 @@ img[alt= "dog icon"] {
 }
 
 img[alt = "bird icon"] {
-  position: relative;
+  position: absolute;
   bottom: 50px;
   right: 250px;
   
@@ -82,8 +82,9 @@ nav a{
 }
 
 /*------------part d----------- */
-
-
+.pinkey{
+  
+}
 
 
 /* external css is imported into html using the <link> tag in the <head> section, as shown below.
