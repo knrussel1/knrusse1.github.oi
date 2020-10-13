@@ -3,6 +3,7 @@ var totalParNum = 0;
 for (let i = 1; i < 19; i++)
 {
   let elem = document.getElementById(i.toString());
+  console.log(elem);
   elem.children[4].children[0].onclick = function(){add1(elem);};
   elem.children[4].children[1].onclick = function(){subtract1(elem);};
   elem.children[4].children[2].onclick = function(){clear(elem);};
